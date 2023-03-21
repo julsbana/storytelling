@@ -17,7 +17,7 @@ Tipo/Género:
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](https://github.com/julsbana/storytelling/blob/master/shak2-22.jpg)
 
 Nombre: Shak 2-22
 
