@@ -19,7 +19,7 @@ Tipo/Género:
 
 ![](https://github.com/julsbana/storytelling/blob/master/shak2-22.jpg)
 
-Nombre: Shak 2-22
+Nombre: **Shak 2-22**
 
 
 ### Historia
