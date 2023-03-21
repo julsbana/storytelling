@@ -1,8 +1,8 @@
 
 
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling: Shak 2-22
 
-Nombre del Equipo: 
+Nombre del Equipo: Grupo 5
 
 Proyecto (código): 
 
@@ -57,8 +57,8 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
+- 🇧🇷: Álvaro Fernández Carrera
+- 🇦🇬: minombre
 - :woman: minombre 
 
 <!---
