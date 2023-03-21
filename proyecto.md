@@ -57,10 +57,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- 🇧🇷: Álvaro Fernández Carrera
-- 🐈‍⬛: Juliana Baldovino Naranjo
-- 🍞: Cristian Hita Pérez
-- 🥘: Carmen Cornejo Matas
+-  🇧🇷: Álvaro Fernández Carrera.
+- 🐈‍⬛: Juliana Baldovino Naranjo.
+- 🍞: Cristian Hita Pérez.
+- 🥘: Carmen Cornejo Matas.
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
