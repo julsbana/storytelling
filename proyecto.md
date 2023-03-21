@@ -6,7 +6,8 @@ Nombre del Equipo: Grupo 5
 
 Enlace al proyecto original: [storytelling](https://github.com/julsbana/storytelling) 
  
-Enlace al interactivo: <iframe src="https://h5p.org/h5p/embed/1363640" width="899" height="335" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="¿Cuánto sabes de Shak2-22?"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>  
+Enlace al interactivo: 
+ 
  
 Proyecto (código): 
 
