@@ -4,7 +4,7 @@
 
 Nombre del Equipo: Grupo 5
 
-Enlace al proyecto original: {storytelling}(https://github.com/julsbana/storytelling) 
+Enlace al proyecto original: [storytelling](https://github.com/julsbana/storytelling) 
  
 Proyecto (código): 
 
