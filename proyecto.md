@@ -30,6 +30,7 @@ Nombre: **Shak 2-22**
 
 ### Historia
 
+Personaje basado en la cantante colombiana Shakira, que vive en un mundo postapocalíptico donde lucha contra su némesis Oscura Quinoa.
 
 ### Contexto
 
