@@ -22,27 +22,27 @@ Tipo/Género:
 
 ### Personaje
 
-![](https://github.com/julsbana/storytelling/blob/master/shak2-22.jpg)
-
 Nombre: **Shak 2-22**
 
 ![](https://github.com/julsbana/storytelling/blob/master/shak222.jpg)
 
 ### Historia
 
-Personaje basado en la cantante colombiana Shakira, que vive en un mundo postapocalíptico donde lucha contra su némesis Oscura Quinoa, con sus superpoderes.
+Personaje basado en la cantante colombiana Shakira, que vive en un mundo postapocalíptico donde lucha contra su némesis Oscura Quinoa, con sus superpoderes, entre los cuales encontramos un reloj rolex que le permite parar el tiempo y también el poder de volver a la gente bruta, ciega y sordomuda. 
 
 ### Contexto
 
+Vive en un futuro postapocalíptico donde el mundo está en caos y la robótica se ha adueñado de la nueva realidad.
 
 ### Conflicto 
 
-
+Lucha contra su némesis, Oscura Quinoa, que quiere borrar de la faz de la tierra toda la historia de Shak2-22. 
 
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
 
+![](https://github.com/julsbana/storytelling/blob/master/shak2-22.jpg)
 
 - Banner/Teaser:  (enlace) 
 
