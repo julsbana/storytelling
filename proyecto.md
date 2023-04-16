@@ -46,7 +46,9 @@ Lucha contra su némesis, Oscura Quinoa, que quiere borrar de la faz de la tierr
 
 Interactivo → https://h5p.org/node/1363640
 
+Imagen → 
 ![](https://github.com/julsbana/storytelling/blob/master/shak2-22.jpg)
+Fuente: Generada por la IA Dall-e
 
 - Banner/Teaser:  (enlace) 
 
