@@ -50,6 +50,7 @@ Vive en un futuro postapocalíptico donde el mundo está en caos y la robótica 
 
 ![](https://github.com/julsbana/storytelling/blob/master/botsuanab.jpg)
 _Imagen generada por la IA Dall-e_
+
 Nueva potencia del continente africano, con gran avance tecnológico. Soldados con un gran entrenamiento militar, basado en el combate cuerpo a cuerpo y con armas con tecnología láser. 
 Los botsuanos creen en la supremacía del hombre negro, creyendo firmenmente en la superioridad de sus cuerpos, que dicen estar preparados para condiciones extremas, tanto de clima como de capacidades físicas.  La batalla por el futuro del mundo post-apocalíptico está en juego, y el destino de todos depende de quién prevalecerá en esta épica lucha por el poder.
 
@@ -58,6 +59,7 @@ Los botsuanos creen en la supremacía del hombre negro, creyendo firmenmente en 
 
 ![](https://github.com/julsbana/storytelling/blob/master/brasil1.jpg)
 _Imagen generada por la IA Dall-e_
+
 Tras la decadencia de todas las grandes potencias de los tiempos antiguos debido a la escasez de los recursos, Brasil consigue alzarse  como una potencia regional en América Latina debido a sus grandes recursos naturales. Esta razón la aprovechan para empezar a expandirse por el continente, en primer lugar, de forma no violenta creando estados satélites, pero luego consiguen el dominio total de todas las poblaciones a través de la imposición de su cultura por la fuerza.  La batalla por el futuro del mundo post-apocalíptico está en juego, y el destino de todos depende de quién prevalecerá en esta épica lucha por el poder.
 
 
