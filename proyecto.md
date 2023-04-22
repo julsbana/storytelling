@@ -21,6 +21,8 @@ Tipo/Género:
 
 ## Resumen
 
+![](https://github.com/julsbana/storytelling/blob/master/cyberpunk.jpg)
+
 En el año 2531 el mundo entra en una nueva Guerra Mundial por el control de los recursos naturales, cada vez más escasos, y la nueva tecnología. Los países que dominan todo el mundo (China, Brasil y Botsuana) luchan entre ellos y el mundo se ve asolado por constantes batallas. Finalmente, Brasil se alza como vencedora y se da comienzo a “A Nova Idade”.  
 
 Nos encontramos con el bando de La Resistencia, donde hayamos a Shak 2-2, una mujer robot que se alimenta de mermelada radioactiva, cuyo principal propósito es ayudar a las personas afectadas por los nuevos órdenes mundiales.
