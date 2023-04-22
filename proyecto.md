@@ -45,6 +45,16 @@ Personaje basado en la cantante colombiana Shakira, que vive en un mundo postapo
 
 Vive en un futuro postapocalíptico donde el mundo está en caos y la robótica se ha adueñado de la nueva realidad. Los países del Nuevo Orden Mundial (China, Brasil y Botsuana) luchan por el constante control de los pocos recursos naturales que quedan y por las nuevas tecnologías. Brasil está en la cima de esta lucha, nombrando a esta era como "A Nova Idade".
 
+**Botsuana**
+![](https://github.com/julsbana/storytelling/blob/master/botsuana%20(2).jpg)
+
+**Brasil**
+![](https://github.com/julsbana/storytelling/blob/master/brasil.jpg)
+
+**China**
+![](https://github.com/julsbana/storytelling/blob/master/china.jpg)
+
+
 ### Conflicto 
 
 Lucha contra su némesis, Oscura Quinoa, una guerrera de Brasil, que quiere eliminar a todos los sublevados de la Resistencia. 
