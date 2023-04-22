@@ -21,6 +21,10 @@ Tipo/Género:
 
 ## Resumen
 
+En el año 2531 el mundo entra en una nueva Guerra Mundial por el control de los recursos naturales, cada vez más escasos, y la nueva tecnología. Los países que dominan todo el mundo (China, Brasil y Botsuana) luchan entre ellos y el mundo se ve asolado por constantes batallas. Finalmente, Brasil se alza como vencedora y se da comienzo a “A Nova Idade”.  
+
+Nos encontramos con el bando de La Resistencia, donde hayamos a Shak 2-2, una mujer robot que se alimenta de mermelada radioactiva, cuyo principal propósito es ayudar a las personas afectadas por los nuevos órdenes mundiales.
+
 
 ### Personaje
 
@@ -34,11 +38,12 @@ Personaje basado en la cantante colombiana Shakira, que vive en un mundo postapo
 
 ### Contexto
 
-Vive en un futuro postapocalíptico donde el mundo está en caos y la robótica se ha adueñado de la nueva realidad.
+Vive en un futuro postapocalíptico donde el mundo está en caos y la robótica se ha adueñado de la nueva realidad. Los países del Nuevo Orden Mundial (China, Brasil y Botsuana) luchan por el constante control de los pocos recursos naturales que quedan y por las nuevas tecnologías. 
 
 ### Conflicto 
 
-Lucha contra su némesis, Oscura Quinoa, que quiere borrar de la faz de la tierra toda la historia de Shak2-22. 
+Lucha contra su némesis, Oscura Quinoa, una guerrera de Brasil, que quiere eliminar a todos los sublevados de la Resistencia. 
+Shak 2-22 lucha por la justicia y la salvación de los más débiles, defendiéndolos de los ejércitos de los altos mandos botsuanos, chinos y brasileños. 
 
 ### Productos
 
@@ -51,7 +56,9 @@ Imagen →
 Fuente: Generada por la IA Dall-e
 
 - Banner/Teaser:  (enlace) 
-
+ 
+ Teaser de ArcWeave:
+ https://arcweave.com/app/project/vVlj3yQEgq/play 
 
 - Storytelling: (enlace) 
 
