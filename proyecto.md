@@ -2,7 +2,7 @@
 
 # Proyecto Storytelling: Shak 2-22
 
-Nombre del Equipo: Lerolers (Grupo 5)
+Nombre del Equipo: _Lerolers_ (Grupo 5)
 
 Enlace al proyecto original: [storytelling](https://github.com/julsbana/storytelling) 
  
