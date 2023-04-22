@@ -38,7 +38,7 @@ Personaje basado en la cantante colombiana Shakira, que vive en un mundo postapo
 
 ### Contexto
 
-Vive en un futuro postapocalíptico donde el mundo está en caos y la robótica se ha adueñado de la nueva realidad. Los países del Nuevo Orden Mundial (China, Brasil y Botsuana) luchan por el constante control de los pocos recursos naturales que quedan y por las nuevas tecnologías. 
+Vive en un futuro postapocalíptico donde el mundo está en caos y la robótica se ha adueñado de la nueva realidad. Los países del Nuevo Orden Mundial (China, Brasil y Botsuana) luchan por el constante control de los pocos recursos naturales que quedan y por las nuevas tecnologías. Brasil está en la cima de esta lucha, nombrando a esta era como "A Nova Idade".
 
 ### Conflicto 
 
