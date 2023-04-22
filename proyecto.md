@@ -73,8 +73,8 @@ En un mundo devastado por la guerra nuclear y la sobreexplotación de recursos, 
 
 ## Conflicto 
 
-Lucha contra su némesis, Oscura Quinoa, una guerrera de Brasil, que quiere eliminar a todos los sublevados de la Resistencia. 
-Shak 2-22 lucha por la justicia y la salvación de los más débiles, defendiéndolos de los ejércitos de los altos mandos botsuanos, chinos y brasileños. 
+Shak 2-22 está en constante lucha contra la injusticia y los países jefes del nuevo orden mundial. Se enfrentará cara a cara con su némesis Oscura Quinoa, una combatiente de Brasil, que quiere eliminar a todos los sublevados de la Resistencia. Shak 2-22 lucha por los más débiles, defendiendo a estos de los ejércitos botsuanos, chinos y brasileños, con el propósito de llegar a la paz en este nuevo mundo postapocalíptico.
+
 
 # Productos
 
