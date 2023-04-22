@@ -22,6 +22,7 @@ Tipo/Género:
 ## Resumen
 
 ![](https://github.com/julsbana/storytelling/blob/master/cyberpunk.jpg)
+Imagen generada por la IA Dall-e.
 
 En el año 2531 el mundo entra en una nueva Guerra Mundial por el control de los recursos naturales, cada vez más escasos, y la nueva tecnología. Los países que dominan todo el mundo (China, Brasil y Botsuana) luchan entre ellos y el mundo se ve asolado por constantes batallas. Finalmente, Brasil se alza como vencedora y se da comienzo a “A Nova Idade”.  
 
