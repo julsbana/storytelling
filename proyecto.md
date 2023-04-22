@@ -75,7 +75,7 @@ En un mundo devastado por la guerra nuclear y la sobreexplotación de recursos, 
 
 Shak 2-22 está en constante lucha contra la injusticia y los países jefes del nuevo orden mundial. Se enfrentará cara a cara con su némesis Oscura Quinoa, una combatiente de Brasil, que quiere eliminar a todos los sublevados de la Resistencia. Shak 2-22 lucha por los más débiles, defendiendo a estos de los ejércitos botsuanos, chinos y brasileños, con el propósito de llegar a la paz en este nuevo mundo postapocalíptico.
 
-###**La Resistencia**
+### **La Resistencia**
 ![](https://github.com/julsbana/storytelling/blob/master/logoresistencia.png)
 
 En este mundo post-apocalíptico cyberpunk, la tecnología se ha convertido en la moneda de cambio más valiosa, y las vidas humanas son sacrificables en la lucha por el poder y los recursos. Ante esta situación extrema se alzan grupos que se revelan ante los grandes países, como La Resistencia, dirigidos por el cyborg Broncaneitor. 
