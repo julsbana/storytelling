@@ -19,7 +19,7 @@ Tipo/Género:
 - [ ] Comic
 
 
-## Resumen
+# Resumen
 
 ![](https://github.com/julsbana/storytelling/blob/master/cyberpunk.jpg)
 _Imagen generada por la IA Dall-e_
@@ -31,17 +31,17 @@ Los distintos países luchan por su supremacía en distintas disciplinas, como B
 Es así, que en contraposición a los países líder, nos encontramos con el bando de La Resistencia, donde hayamos a Shak 2-2, una mujer robot que se alimenta de mermelada radioactiva, cuyo principal propósito es ayudar a las personas afectadas por los nuevos órdenes mundiales. La Resistencia se alía para luchar contra el poder y defender los recursos, con el fin de prevalecer y hacer que el mundo sea un lugarmejor para todos. Se enfrentan a peligrosos enemigos, como Oscura Quinoa, y desafíos cada vez mayores, usando sus habilidades y tecnologías para lograr sus objetivos y llevar la luz de la libertad a un mundo post-apocalíptico oscuro y peligroso.
 
 
-### Personaje
+# Personaje
 
 Nombre: **Shak 2-22**
 
 ![](https://github.com/julsbana/storytelling/blob/master/shak222.jpg)
 
-### Historia
+# Historia
 
 Personaje basado en la cantante colombiana Shakira, que vive en un mundo postapocalíptico donde lucha contra su némesis Oscura Quinoa, con sus superpoderes, entre los cuales encontramos un reloj rolex que le permite parar el tiempo y también el poder de volver a la gente bruta, ciega y sordomuda. 
 
-### Contexto
+## Contexto
 
 Vive en un futuro postapocalíptico donde el mundo está en caos y la robótica se ha adueñado de la nueva realidad. Los países del Nuevo Orden Mundial (China, Brasil y Botsuana) luchan por el constante control de los pocos recursos naturales que quedan y por las nuevas tecnologías. Brasil está en la cima de esta lucha, nombrando a esta era como "A Nova Idade".
 
@@ -65,12 +65,12 @@ Tras la decadencia de todas las grandes potencias de los tiempos antiguos debido
 ![](https://github.com/julsbana/storytelling/blob/master/china.jpg)
 En un mundo devastado por la guerra nuclear y la sobreexplotación de recursos, las grandes potencias del mundo se disputan el control de los últimos recursos restantes. China se ha convertido en la principal potencia tecnológica, con un ejército de soldados que van sobre pandas cibernéticos. Estos pandas, creados mediante ingeniería genética y tecnología avanzada, son los aliados más poderosos de China en su lucha contra las otras dos grandes potencias: Brasil y Botsuana.  La batalla por el futuro del mundo post-apocalíptico está en juego, y el destino de todos depende de quién prevalecerá en esta épica lucha por el poder.
 
-### Conflicto 
+## Conflicto 
 
 Lucha contra su némesis, Oscura Quinoa, una guerrera de Brasil, que quiere eliminar a todos los sublevados de la Resistencia. 
 Shak 2-22 lucha por la justicia y la salvación de los más débiles, defendiéndolos de los ejércitos de los altos mandos botsuanos, chinos y brasileños. 
 
-### Productos
+# Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
 
@@ -90,7 +90,7 @@ Fuente: Generada por la IA Dall-e
 
 
 
-### Conclusiones/Valoración del equipo
+# Conclusiones/Valoración del equipo
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
